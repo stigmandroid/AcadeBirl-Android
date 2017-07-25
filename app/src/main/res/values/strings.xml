@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AcadeBirl</string>
+    <string name="copyright">©VPG Dev</string>
+    <string name="sair">Sair</string>
+    <string name="texto_home">
+        AcadeBirl!!
+    </string>
+    <string name="texto_telaLogin">
+        Faça seu Login
+    </string>
+</resources>
